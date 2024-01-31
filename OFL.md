@@ -1,6 +1,7 @@
 - Intel One Mono is Copyright 2023 Intel Corp. with Reserved Font Name 'Intel One Mono'
 - Fira Code is Copyright (c) 2014, [The Fira Code Project Authors](https://github.com/tonsky/FiraCode)
 - Nerd Font symbols may or may not fall under OFL 1.1. Check [here](https://github.com/ryanoasis/nerd-fonts/blob/master/license-audit.md) for up-to-date info.
+- JetBrains Mono is Copyright 2020 [The JetBrains Mono Project Authors](https://github.com/JetBrains/JetBrainsMono)
 &nbsp;
 
 
